@@ -1,0 +1,10 @@
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeperEvaVersion.csprojAssemblyReference.cache
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeper.MinesweeperForm.resources
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeperEvaVersion.csproj.GenerateResource.cache
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeperEvaVersion.csproj.CoreCompileInputs.cache
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Eman Ali\Desktop\minesweeper\MineSweeper\obj\Debug\MineSweeper.pdb
